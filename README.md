@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Estrayu
-- 👀 I’m interested in game design and development, simulations design, and modding video games
+- 👋 Hi, I’m @Estrayu, feel free to call me Rheya (pronounced ray-uh!)
+- 👀 I’m interested in game design and development, simulations design, and modding video games.
 - 🌱 I’m currently learning how to create minecraft mods!
 - 💞️ I’m looking to collaborate on art/design.
 - 😄 Pronouns: she/her
